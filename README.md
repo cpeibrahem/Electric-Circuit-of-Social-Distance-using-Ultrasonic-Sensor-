@@ -6,14 +6,13 @@ Description: This is a circuit of social distancing alarm using arduino tinkerca
 
 - Circuit Diagram using [Tinkercad Platform](https://www.tinkercad.com/):
 
-![image](https://user-images.githubusercontent.com/85820553/128717214-91a68590-62a8-4d8f-a9c0-644b7d5589c4.png)
+![image](https://github.com/cpeibrahem/Electric-Circuit-of-Social-Distance-using-Ultrasonic-Sensor-/blob/main/Circuit%20diagram.PNG)
 
 
-- [Try the Simulation](https://www.tinkercad.com/things/cG04w8p7AEg-powerful-hillar-crift/editel?sharecode=KCCCU1yGq8SXsw1Kcrm6_tIxz0WvfGwkV9rXbI03RvQ):
+- [Try the Simulation](https://www.tinkercad.com/things/aNvlySHMnwX-epic-migelo-jaban/editel?sharecode=QEiExNO2mOWKYsdRucqk7ab_ziGpfKFCP9v1CJdGPug):
 
 
 
-https://user-images.githubusercontent.com/85820553/128717429-e21e6a8d-e96f-42b6-ad7b-8964eb5b4cec.mp4
 
 
 
