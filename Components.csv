@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIEZO1",1," Piezo"
+"D1",1," LED RGB"
+"R1, R2, R3, R4",4,"220 Ω Resistor"
+"PIR1",1,"455.1521257420088 , -175.48687241795687 , 363.76879059513215 , -214.84445810186207  PIR Sensor"
+"DIST1",1," Ultrasonic Distance Sensor"
+"U2",1," LCD 16 x 2 "
+"Rpot1",1,"250 kΩ Potentiometer"
